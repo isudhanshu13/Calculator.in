@@ -1,0 +1,57 @@
+body>h1 {
+    text-align: center;
+    padding-top: 3%;
+    color: rgb(191, 223, 14);
+    font-size: xx-large;
+
+}
+
+body {
+    background-color: grey;
+}
+
+.calculator {
+
+    border-radius: 10%;
+    background-color: rgb(126, 22, 22);
+    width: 20%;
+    padding: 2%;
+    text-align: center;
+
+}
+
+.buttons {
+    text-align: center;
+}
+
+.btns {
+    /* display: flex; */
+    /* padding: 10px 20px; */
+
+
+    padding: 7% 7%;
+    margin: 1%;
+    border-radius: 40%;
+    background-color: #9b321f;
+    color: #fff;
+    border: none;
+    font-size: x-large;
+
+}
+
+.btns:hover {
+    background-color: rgb(226, 62, 12);
+}
+
+.input {
+    text-align: center;
+    padding: 5% 5%;
+    width: 80%;
+    border-radius: 50px;
+    background-color: #0c0505;
+    color: #fff;
+    border: none;
+    text-decoration: none;
+    font-family: gilroy;
+    font-size: larger;
+}
